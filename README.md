@@ -57,4 +57,3 @@ If you have already submitted to a repo and have done a pull request that has be
 
 If you setup your repo to use actions to build and run the tests, you can obtain an extra 50 points to be used towards you labs.  Use the actions file from Lab00.  And follow steps done in lecture lab (it's recorded so you can obtain the recording from canvas).
 
-AAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH THIS IS A CHANGE THAT WILL BE FIXED
